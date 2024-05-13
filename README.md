@@ -10,8 +10,8 @@ Aplikasi Catatan Mobile adalah sebuah aplikasi sederhana yang memungkinkan pengg
 - **Tampilan Daftar Catatan**: Daftar catatan ditampilkan dalam tampilan yang mudah dinavigasi, memungkinkan pengguna untuk dengan cepat menemukan catatan yang mereka butuhkan.
 
 ## Tools 
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-[![Kotlin](https://img.shields.io/badge/Kotlin-1.5.20-blue.svg)](https://kotlinlang.org/)
+
+[![Kotlin](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://kotlinlang.org/)
 [![Android Studio](https://img.shields.io/badge/Android_Studio-4.2.1-green.svg)](https://developer.android.com/studio)
 [![Figma](https://img.shields.io/badge/Figma-Design-orange.svg)](https://www.figma.com/)
 
