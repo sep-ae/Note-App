@@ -10,10 +10,10 @@ Aplikasi Catatan Mobile adalah sebuah aplikasi sederhana yang memungkinkan pengg
 - **Tampilan Daftar Catatan**: Daftar catatan ditampilkan dalam tampilan yang mudah dinavigasi, memungkinkan pengguna untuk dengan cepat menemukan catatan yang mereka butuhkan.
 
 ## Tools 
-
-- [![Kotlin](https://img.shields.io/badge/Kotlin-1.5.20-blue.svg)](https://kotlinlang.org/)
-- [![Android Studio](https://img.shields.io/badge/Android_Studio-4.2.1-green.svg)](https://developer.android.com/studio)
-- [![Figma](https://img.shields.io/badge/Figma-Design-orange.svg)](https://www.figma.com/)
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+[![Kotlin](https://img.shields.io/badge/Kotlin-1.5.20-blue.svg)](https://kotlinlang.org/)
+[![Android Studio](https://img.shields.io/badge/Android_Studio-4.2.1-green.svg)](https://developer.android.com/studio)
+[![Figma](https://img.shields.io/badge/Figma-Design-orange.svg)](https://www.figma.com/)
 
 - Aplikasi ini dibuat dengan bahasa pemograman Kotlin. Kotlin adalah bahasa pemrograman modern yang berjalan di atas JVM (Java Virtual Machine) dan sangat cocok untuk pengembangan aplikasi Android. 
 
