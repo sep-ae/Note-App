@@ -9,10 +9,12 @@ Aplikasi Catatan Mobile adalah sebuah aplikasi sederhana yang memungkinkan pengg
 
 ## Fitur Utama
 
+- **Tampilan Daftar Catatan**: Daftar catatan ditampilkan dalam tampilan yang mudah dinavigasi, memungkinkan pengguna untuk dengan cepat menemukan catatan yang mereka butuhkan.
 - **Tambah Catatan**: Pengguna dapat dengan mudah menambahkan catatan baru dengan judul dan isi yang diinginkan.
+- **Cari Catatan**: Pengguna dapat mencari catatan yang telah dibuat.
 - **Edit Catatan**: Pengguna dapat mengedit catatan yang sudah ada untuk memperbarui isi atau judulnya.
 - **Hapus Catatan**: Pengguna dapat menghapus catatan yang tidak diperlukan lagi.
-- **Tampilan Daftar Catatan**: Daftar catatan ditampilkan dalam tampilan yang mudah dinavigasi, memungkinkan pengguna untuk dengan cepat menemukan catatan yang mereka butuhkan.
+
 
 ## Tools 
 
