@@ -26,7 +26,7 @@ Aplikasi Catatan Mobile adalah sebuah aplikasi sederhana yang memungkinkan pengg
 
 ## Tim
 
-Tim pengembang aplikasi Catatan Mobile terdiri dari:
+Tim pengembang Note App terdiri dari:
 
 - Alfindo Oktavian Ramadhan (233307001)
 - Dion Wiratama (233307008)
